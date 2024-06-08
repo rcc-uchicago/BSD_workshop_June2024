@@ -4,7 +4,7 @@ module unload openmpi
 module unload cuda
 module unload gcc
 
-module load openmpi/1.4  
+module load openmpi/4.1.0 
 module load cuda/10.2
 module load gcc/7.4.0
 # Compiling the device code
